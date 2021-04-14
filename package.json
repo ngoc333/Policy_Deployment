@@ -1,7 +1,6 @@
 {
   "name": "pd",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "start": "nodemon src/index.js",
@@ -17,5 +16,14 @@
     "node-sass": "^5.0.0",
     "nodemon": "^2.0.7",
     "oracledb": "^5.1.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ngoc333/Policy_Deployment.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ngoc333/Policy_Deployment/issues"
+  },
+  "homepage": "https://github.com/ngoc333/Policy_Deployment#readme",
+  "description": ""
 }
