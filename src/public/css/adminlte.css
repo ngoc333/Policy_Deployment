@@ -10310,9 +10310,9 @@ body,
   position: relative;
 }
 
-.wrapper .content-wrapper {
-  min-height: calc(100vh - calc(3.5rem + 1px) - calc(3.5rem + 1px));
-}
+/* .wrapper .content-wrapper {
+  min-height: calc(100vh - calc(6.5rem + 1px) - calc(3.5rem + 1px));
+} */
 
 .layout-boxed .wrapper {
   box-shadow: 0 0 10 rgba(0, 0, 0, 0.3);
@@ -32921,3 +32921,14 @@ a.text-muted:hover {
 }
 /*# sourceMappingURL=adminlte.css.map */
 
+label {
+  display: block;
+  font: 1rem 'Fira Sans', sans-serif;
+
+}
+
+input,
+label {
+  margin: .4rem 0;
+  
+}
